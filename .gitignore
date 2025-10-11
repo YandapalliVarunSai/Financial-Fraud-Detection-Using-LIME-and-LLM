@@ -1,0 +1,13 @@
+# secrets 
+.env
+*.env
+*.key
+*.pem
+config.json
+ECHO is on.
+# notebooks
+.ipynb_checkpoints/
+ECHO is on.
+# large/local data
+Bank_Transaction_Fraud_Detection.csv
+data/
