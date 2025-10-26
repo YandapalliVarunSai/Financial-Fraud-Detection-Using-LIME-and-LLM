@@ -123,9 +123,7 @@ Financial-Fraud-Detection-Using-LIME-and-LLM/
 │   ├──23325836 - Part 3 Research Code.ipynb
 │
 ├── results/
-│   ├── confusion_matrices.png
-│   ├── lime_explanations.png
-│   └── performance_summary.csv
+│   ├── 23325836 Research Practicum Final Report.pdf
 │
 ├── README.md
 └── requirements.txt
