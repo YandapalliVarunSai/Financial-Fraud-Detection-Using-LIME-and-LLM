@@ -120,15 +120,7 @@ Financial-Fraud-Detection-Using-LIME-and-LLM/
 │   └── bank_fraud_transactions.csv
 │
 ├── notebooks/
-│   ├── 1_preprocessing_visualization.ipynb
-│   ├── 2_model_training.ipynb
-│   ├── 3_lime_explainability.ipynb
-│   └── 4_llm_integration.ipynb
-│
-├── models/
-│   ├── stacking_model.pkl
-│   ├── xgboost_model.pkl
-│   └── random_forest_importance.csv
+│   ├──23325836 - Part 3 Research Code.ipynb
 │
 ├── results/
 │   ├── confusion_matrices.png
